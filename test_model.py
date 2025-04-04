@@ -1,0 +1,1 @@
+import numpy as np; from keras.models import load_model; print("Attempting to load model..."); model = load_model("cnn8grps_rad1_model.h5"); print("Model loaded successfully!"); print("\nModel summary:"); model.summary()

@@ -1,0 +1,8 @@
+numpy>=1.19.5
+opencv-python>=4.5.4
+tensorflow>=2.7.0
+keras>=2.7.0
+mediapipe>=0.8.9
+pyttsx3>=2.90
+pillow>=8.4.0
+pyenchant>=3.2.2 
