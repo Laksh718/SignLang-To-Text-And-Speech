@@ -125,6 +125,14 @@ American sign language is a predominant sign language since the only disability 
 
 In our project we basically focus on producing a model which can recognize fingerspelling based hand gestures in order to form a complete word by combining each gesture.
 
+Built an Ml-powered solution enabling seamless real-time communication between speech/hearing-impaired users and others through gesture-to-text and text-to-speech translation.
+
+Trained a custom CNN model (97–99% accuracy) on MediaPipe-extracted ASL skeleton landmarks grouped into 8 optimized gesture sets, enhancing classification under varied lighting conditions.
+
+Integrated a clean UI with real-time hand detection indicators, sentence construction controls, and multi-voice speech output using pyttsx3.
+
+<img width="699" height="421" alt="image" src="https://github.com/user-attachments/assets/b2d41b24-adb6-43b4-9814-4fb0406cd18f" />
+
 ## Requirements
 
 More than 70 million deaf people around the world use sign languages to communicate. Sign language allows them to learn, work, access services, and be included in the communities.
